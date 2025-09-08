@@ -7,5 +7,6 @@ catboost
 xgboost
 flask
 xgboost
+dill
 
 -e .
